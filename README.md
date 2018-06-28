@@ -21,13 +21,13 @@ https://john.doe@www.example.com:123/forum/questions/?tag=networking&order=newes
 
 ==============URI PARAMETERS=================
 
-Scheme : https
-Host : www.example.com
-User : john.doe
-Query : tag=networking&order=newest
-Port : 123
-Fragment : top
-Path : /forum/questions/
+Scheme : https<br/>
+Host : www.example.com<br/>
+User : john.doe<br/>
+Query : tag=networking&order=newest<br/>
+Port : 123<br/>
+Fragment : top<br/>
+Path : /forum/questions/<br/>
 
 =============================================
 
